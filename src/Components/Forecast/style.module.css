@@ -1,0 +1,36 @@
+.Forecast {
+  padding-top: 50px;
+}
+
+.Forecast__date {
+  width: 100px;
+  color: #3c5e85;
+  text-align: center;
+}
+
+.Forecast__icon {
+  width: 50px;
+}
+
+.Forecast__describe {
+  padding-top: 5px;
+  color: #3c5e85;
+  font-size: 14px;
+}
+
+.Forecast__day {
+  margin-right: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.Forecast div {
+  padding-top: 10px;
+  display: flex;
+}
+
+.City {
+  font-size: 24px;
+  font-weight: bold;
+}

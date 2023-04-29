@@ -1,0 +1,18 @@
+.Location {
+  display: block;
+  width: 25px;
+  height: 25px;
+  margin-left: 20px;
+  background-image: url(../../assets/icons/location.png);
+  background-size: contain;
+}
+
+.Location:hover {
+  box-shadow: inset 0 0 2px 1px #156ae280;
+  border-radius: 3px;
+  transform: scale(1.05, 1.05);
+}
+
+.Location {
+  cursor: pointer;
+}

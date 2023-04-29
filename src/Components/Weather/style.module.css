@@ -1,0 +1,37 @@
+.Current {
+  padding-top: 50px;
+}
+
+.Current__date {
+  color: #0160f9;
+}
+
+.City {
+  font-size: 24px;
+  font-weight: bold;
+}
+
+.Current__temp {
+  font-size: 30px;
+  font-weight: bold;
+}
+
+.Current__icon {
+  width: 70px;
+}
+
+.Current__main {
+  width: 275px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.Current__info {
+  padding-top: 20px;
+}
+
+.Current__info > div {
+  margin-bottom: 5px;
+  color: #3c5e85;
+}
